@@ -1647,8 +1647,165 @@ public class Jamie {
 	}
 
 	static void capitallizingNames(String whatUserNameIs) {
-		if (whatUserNameIs.charAt(0) >= 97 && whatUserNameIs.charAt(0) <= 122) {
-			System.out.println("BLAH");
+		if (whatUserNameIs.charAt(0) >= 'a' && whatUserNameIs.charAt(0) <= 'z') {
+			switch (whatUserNameIs.charAt(0)) {
+			case 'a':
+				String newName = name.substring(1, name.length());
+				String newnewName = "A";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			case 'b':
+				String newName = name.substring(1, name.length());
+				String newnewName = "B";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			case 'c':
+				String newName = name.substring(1, name.length());
+				String newnewName = "C";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			case 'd':
+				String newName = name.substring(1, name.length());
+				String newnewName = "D";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			case 'e':
+				String newName = name.substring(1, name.length());
+				String newnewName = "E";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			case 'f':
+				String newName = name.substring(1, name.length());
+				String newnewName = "F";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			case 'g':
+				String newName = name.substring(1, name.length());
+				String newnewName = "G";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			case 'h':
+				String newName = name.substring(1, name.length());
+				String newnewName = "H";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			case 'i':
+				String newName = name.substring(1, name.length());
+				String newnewName = "I";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			case 'j':
+				String newName = name.substring(1, name.length());
+				String newnewName = "J";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			case 'k':
+				String newName = name.substring(1, name.length());
+				String newnewName = "K";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			case 'l':
+				String newName = name.substring(1, name.length());
+				String newnewName = "L";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			case 'm':
+				String newName = name.substring(1, name.length());
+				String newnewName = "M";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			case 'n':
+				String newName = name.substring(1, name.length());
+				String newnewName = "N";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			case 'o':
+				String newName = name.substring(1, name.length());
+				String newnewName = "O";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			case 'p':
+				String newName = name.substring(1, name.length());
+				String newnewName = "P";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			case 'q':
+				String newName = name.substring(1, name.length());
+				String newnewName = "Q";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			case 'r':
+				String newName = name.substring(1, name.length());
+				String newnewName = "A";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			case 's':
+				String newName = name.substring(1, name.length());
+				String newnewName = "A";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			case 't':
+				String newName = name.substring(1, name.length());
+				String newnewName = "A";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			case 'u':
+				String newName = name.substring(1, name.length());
+				String newnewName = "A";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			case 'v':
+				String newName = name.substring(1, name.length());
+				String newnewName = "A";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			case 'w':
+				String newName = name.substring(1, name.length());
+				String newnewName = "A";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			case 'x':
+				String newName = name.substring(1, name.length());
+				String newnewName = "A";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			case 'y':
+				String newName = name.substring(1, name.length());
+				String newnewName = "A";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			case 'z':
+				String newName = name.substring(1, name.length());
+				String newnewName = "Z";
+				newnewName += newName;
+				name = newnewName;
+				break;
+			}
 		}
 	}
 
